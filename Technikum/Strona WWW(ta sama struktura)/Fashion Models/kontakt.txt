@@ -1,0 +1,73 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+
+	<title>Royal Models
+	</title>
+	
+	<meta name="description" content="Agencja Modelek Royal Models" />
+	<meta name="keywords" content="agencja modelek, modelki, modeling, fotografia " />
+	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+
+
+<body>
+
+<div id="wrapper" >
+
+     <div id="header" >
+	 
+	    <div id="logo" >
+		
+		</div>
+	 
+	 </div>
+	 
+	 
+	 
+	<div id="menu" >
+	
+	        <ol>
+		    <li><a href="index.html" >Strona główna</a></li>
+			<li><a href="onas.html">O nas</a></li>
+			<li><a href="dolaczdonas.html">Dołącz do nas</a></li>
+			<li><a href="galeria.html">Galeria</a></li>
+			<li><a href="kontakt.html">Kontakt</a></li>
+	
+	</div>
+	
+	<div id="container">
+	
+	   <div id="content">
+	   </div>
+	   
+	   
+	   <div id="rightbar">
+	   
+	        <h3> Informajce </h3>
+	  
+	        <a href="formularz.html"><div class="option">Formularz</div> </a>
+			   
+			<a href="jakdojechac.html"><div class="option">Jak Dojechać?</div> </a>
+			
+			<a href="partnerzy.html"><div class="option">Partnerzy</div> </a>
+			
+			<a href="wizytowka"><div class="option">Wizytówka</div> </a>
+			
+			<a href="modeling.html"><div class="option">Modeling</div> </a>
+	   
+	   </div>
+	
+	
+	</div>
+	
+
+</div>
+
+
+
+</body>
+</html>

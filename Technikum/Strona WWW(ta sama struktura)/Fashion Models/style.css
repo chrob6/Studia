@@ -1,0 +1,319 @@
+﻿body 
+{ 
+background: url('tlo.jpg');
+font-family: 'Lato', sans-serif;
+}
+
+
+
+#wrapper 
+{
+ width: 100%;
+ 
+ background: url('tlo.jpg')
+}
+
+#header
+{
+ width: 100%;
+ 
+ background: url('tlo.jpg')
+}
+
+#logo
+{
+ margin-left: auto;
+ margin-right: auto;
+ width: 900px;
+ height: 370px;
+ 
+ background: black;
+}
+
+#menu
+{
+ height: 36px;
+ text-align: center;
+ padding: 15px 0;
+ 
+ background-color: #636363;
+}
+
+#container
+{
+ margin-left: auto;
+ margin-right: auto;
+ height: 1000px;
+ width: 1200px;
+ 
+
+}
+
+#content
+{
+ width: 1000px;
+ height: 680px;
+ float: left;
+ margin-top: 10px;
+ border-style: groove;
+
+ 
+ background-color: #fff4aa ;
+}
+
+#rightbar
+{
+ float:left;
+ margin: 10px;
+ height: 700px;
+ width: 150px;
+ 
+ background-color: grey;
+  border-radius: 25px;
+}
+
+ol
+{
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 18px;
+	line-height: 200%;
+	height: 35px;
+	display: inline-block;
+	text-shadow: 3px 8px 7px #c86207
+	
+}
+
+ol a 
+{
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+
+ol a:hover
+{
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+ol > li 
+{
+	float: left;
+	width: 150px;
+	height: 40px;
+	border-right: 1px dotted white;
+}
+
+ol > li:first-child
+{
+	border-left: 1px dotted white;
+}
+
+ol > li:hover
+{
+	background-color: #fff4aa ;
+	color: grey;
+    font-weight: bold;
+	
+
+}
+
+
+
+.option 
+{
+	width: 120px;
+	height: 30px;
+	font-size: 17px;
+	text-align: center;
+	margin: 10px;
+	color:white;
+	display: inline-block;
+	border: 3px double #fff4aa;
+	float: left;
+	line-height: 200%;
+	text-shadow: 3px 8px 7px #c86207
+	
+}
+ 
+.option:hover
+{
+	cursor: pointer;
+	background-color: #fff4aa;
+	border: 3px double #636363;
+	color: #636363 ;
+	font-weight: bold;
+}
+h3
+{
+	 color: white;
+	 text-align: center;
+	 letter-spacing: 1px;
+	 text-shadow: 3px 8px 7px #c86207 ;
+	 font-size: 25px;
+	 
+}
+
+h2
+{
+	text-align: center;
+	text-shadow:5px 5px 10px #c86207;
+	font-size: 40px;
+        letter-spacing: 2px;
+}
+
+h4
+{
+	color: black; 
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin: 30px;
+    padding: 25px;
+   
+}
+
+.mapa
+{
+	margin-left: 100px;
+}
+
+.wizytówka
+{
+	width: 700px;
+	height: 600px;
+	margin-left: 150px;
+	border: 3px dotted;
+	margin-top: 30px;
+
+}
+
+h5
+{
+	text-align: left;
+	margin-left: 100px ;
+	text-shadow: 3px 8px 7px #c86207 ;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.link
+{
+	float:left;
+	margin: 15px ;
+	width: 50px ;
+	height: 50px;
+}
+
+#linki
+{
+	margin-left: 100px;
+}
+
+.logo
+{
+	width: 200px ;
+	height: 150px;
+	float: right;
+
+}
+
+#logoo
+{
+    height: 150px;
+    width: 1000px;
+   
+}
+
+#main
+{
+    height: 500px;
+    width: 1000px;
+}
+
+.partnerzy
+{
+	height: 150px;
+    width: 400px;
+	margin: 10px;
+	margin-left:60px;
+}
+
+.galeria
+{
+	border-style: ridge;
+	float: left;
+	margin: 8px;
+}
+
+.galeria:hover
+{
+	opacity: 0.8;
+	
+}
+
+h7
+{
+	font-size: 20px;
+	text-align: center;
+	color: grey;
+	text-shadow: 3px 8px 7px #c86207 ;
+	font-weight: bold;
+	
+}
+
+
+
+form {
+	width: 900px;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 15px;
+	border: 10px solid #bbb;
+	border-radius: 3px;
+	box-shadow: 0 0 12px rgba(0,0,0,0.3);
+	background: #eee;
+}
+form field {
+	margin-bottom: 20px;
+}
+form label {
+	color: #999;
+}
+form input {
+	width: 100%;
+	padding: 8px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	margin-top: 5px;
+}
+
+button
+{
+	width: 900px;
+	height: 30px;
+	color: white;
+	background: #3DCFFF;
+}
+
+button:hover
+{
+	background: #48879C;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#przycisk
+{
+        width: 90px;
+	height: 90px;
+        padding: 10px;
+        align: bottom;
+        float: left;
+}
+
+#przycisk:hover
+{
+       opacity: 0.913:09 2016-05-19;
+       box-shadow: 0 0 1px 5px #c86207;
+}
